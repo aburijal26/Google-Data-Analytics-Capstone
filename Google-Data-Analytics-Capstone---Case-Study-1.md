@@ -1,7 +1,6 @@
 Google Data Analytics Capstone - Case Study 1
 ================
 Abu RIjal
-2022-11-10
 
 # Summary
 
