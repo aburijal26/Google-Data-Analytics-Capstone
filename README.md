@@ -1,4 +1,4 @@
-# Google-Data-Analytics-Capstone
+# Google Data Analytics Capstone
 
 Google Data Analytics Professional certificate, there is an assigned case study at the end of the course, which is valuable for increasing my experience and portfolio in the field of data analysis.
 
