@@ -1,4 +1,4 @@
-Google Data Analytics Capstone - Case Study 1
+Google Data Analytics Capstone - Cyclistic Bike share
 ================
 Abu RIjal
 
